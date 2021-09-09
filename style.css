@@ -10,6 +10,7 @@ html {
 } */
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color:gainsboro;
 }
 h1 {
   color:cadetblue;  
